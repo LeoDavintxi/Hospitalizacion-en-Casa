@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-30T18:06:08.682Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="4iCD6sLaxScPSB5qKhFD" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-30T18:07:14.338Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="KYmha6alP3YNwNba699O" version="20.2.7" type="github">
   <diagram id="DdVlWrTr44xwwVnCppr-" name="Page-1">
     <mxGraphModel dx="1087" dy="2087" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -116,7 +116,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KRC1QLPjl5BRoLLzQoqq-38" value="Datos Entrada:&lt;br&gt;- ID Enferemero&lt;br&gt;- ID Paciente" style="html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="690" y="870" width="160" height="80" as="geometry" />
+          <mxGeometry x="680" y="890" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KRC1QLPjl5BRoLLzQoqq-39" value="Datos Salida:&lt;br&gt;- Confirmacion Registro" style="html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1000" y="70" width="160" height="50" as="geometry" />
@@ -137,7 +137,7 @@
           <mxGeometry x="1000" y="950" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KRC1QLPjl5BRoLLzQoqq-45" value="Datos Salida:&lt;br&gt;- Confirmacion Asignacion" style="html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="690" y="970" width="160" height="50" as="geometry" />
+          <mxGeometry x="590" y="980" width="160" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
