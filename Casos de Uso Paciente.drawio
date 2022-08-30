@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-30T17:29:30.842Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="DLp6PfthRmV5P_qNRIA6" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-30T23:03:45.910Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="c9wXf-QQMkIcFW63kEhw" version="20.2.7" type="github">
   <diagram id="egTlvu28jpOTDEv3fnPV" name="Page-1">
     <mxGraphModel dx="973" dy="1983" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -57,8 +57,8 @@
         <mxCell id="lqsnWIF8sEhZWvRPbTXn-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lqsnWIF8sEhZWvRPbTXn-30" target="lqsnWIF8sEhZWvRPbTXn-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lqsnWIF8sEhZWvRPbTXn-30" value="Datos Entrada:&lt;br&gt;- Nombre&lt;br&gt;-Apellido&lt;br&gt;-Direccion&lt;br&gt;-Telefono&lt;br&gt;-Email" style="html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="440" width="160" height="100" as="geometry" />
+        <mxCell id="lqsnWIF8sEhZWvRPbTXn-30" value="Datos Entrada:&lt;br&gt;- Nombre&lt;br&gt;-Apellido&lt;br&gt;-Direccion&lt;br&gt;-Telefono&lt;br&gt;-Email&lt;br&gt;-Contraseña" style="html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="430" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="lqsnWIF8sEhZWvRPbTXn-39" value="Datos Salida:&lt;br&gt;- Confirmacion Registro" style="html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1000" y="70" width="160" height="50" as="geometry" />
