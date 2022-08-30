@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-30T17:33:39.799Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Gc20g4x9WDeeXJ1NGtC-" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-30T18:06:08.682Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="4iCD6sLaxScPSB5qKhFD" version="20.2.7" type="github">
   <diagram id="DdVlWrTr44xwwVnCppr-" name="Page-1">
-    <mxGraphModel dx="1320" dy="2299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1087" dy="2087" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -80,7 +80,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KRC1QLPjl5BRoLLzQoqq-26" value="Datos Entrada:&lt;br&gt;- Nombre&lt;br&gt;- Apellido&lt;br&gt;- ID Paciente&lt;br&gt;- Edad&lt;br&gt;- Direccion&lt;br&gt;- Telefono&lt;br&gt;-Email&lt;br&gt;- ID Familiar" style="html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="-80" width="160" height="140" as="geometry" />
+          <mxGeometry x="1000" y="-110" width="160" height="170" as="geometry" />
         </mxCell>
         <mxCell id="KRC1QLPjl5BRoLLzQoqq-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KRC1QLPjl5BRoLLzQoqq-28" target="KRC1QLPjl5BRoLLzQoqq-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
