@@ -1,0 +1,145 @@
+<mxfile host="app.diagrams.net" modified="2022-08-30T17:05:13.491Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="txmhTL6oyG2RxzUqniSm" version="20.2.7" type="github">
+  <diagram id="DdVlWrTr44xwwVnCppr-" name="Page-1">
+    <mxGraphModel dx="1848" dy="2778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KRC1QLPjl5BRoLLzQoqq-1" value="Sistema" style="shape=umlFrame;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="150" width="280" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="KRC1QLPjl5BRoLLzQoqq-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.007;entryY=0.614;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="KRC1QLPjl5BRoLLzQoqq-10" target="KRC1QLPjl5BRoLLzQoqq-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRC1QLPjl5BRoLLzQoqq-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KRC1QLPjl5BRoLLzQoqq-10" target="KRC1QLPjl5BRoLLzQoqq-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRC1QLPjl5BRoLLzQoqq-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KRC1QLPjl5BRoLLzQoqq-10" target="KRC1QLPjl5BRoLLzQoqq-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRC1QLPjl5BRoLLzQoqq-5" style="orthogonalLoop=1;jettySize=auto;html=1;strokeColor=none;" parent="1" source="KRC1QLPjl5BRoLLzQoqq-10" target="KRC1QLPjl5BRoLLzQoqq-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRC1QLPjl5BRoLLzQoqq-6" style="orthogonalLoop=1;jettySize=auto;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KRC1QLPjl5BRoLLzQoqq-10" target="KRC1QLPjl5BRoLLzQoqq-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRC1QLPjl5BRoLLzQoqq-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KRC1QLPjl5BRoLLzQoqq-10" target="KRC1QLPjl5BRoLLzQoqq-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRC1QLPjl5BRoLLzQoqq-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KRC1QLPjl5BRoLLzQoqq-10" target="KRC1QLPjl5BRoLLzQoqq-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRC1QLPjl5BRoLLzQoqq-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KRC1QLPjl5BRoLLzQoqq-10" target="KRC1QLPjl5BRoLLzQoqq-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRC1QLPjl5BRoLLzQoqq-10" value="Auxiliar" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
+          <mxGeometry x="310" y="360" width="90" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="KRC1QLPjl5BRoLLzQoqq-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="KRC1QLPjl5BRoLLzQoqq-12" target="KRC1QLPjl5BRoLLzQoqq-39" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRC1QLPjl5BRoLLzQoqq-12" value="Registrar Paciente" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="570" y="190" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KRC1QLPjl5BRoLLzQoqq-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KRC1QLPjl5BRoLLzQoqq-14" target="KRC1QLPjl5BRoLLzQoqq-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRC1QLPjl5BRoLLzQoqq-14" value="Consultar Pacientes" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="570" y="270" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KRC1QLPjl5BRoLLzQoqq-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KRC1QLPjl5BRoLLzQoqq-16" target="KRC1QLPjl5BRoLLzQoqq-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRC1QLPjl5BRoLLzQoqq-16" value="Registrar Familiar designado&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="570" y="350" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KRC1QLPjl5BRoLLzQoqq-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KRC1QLPjl5BRoLLzQoqq-18" target="KRC1QLPjl5BRoLLzQoqq-43" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRC1QLPjl5BRoLLzQoqq-18" value="Registrar nuevo Medico" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="570" y="430" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KRC1QLPjl5BRoLLzQoqq-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KRC1QLPjl5BRoLLzQoqq-20" target="KRC1QLPjl5BRoLLzQoqq-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRC1QLPjl5BRoLLzQoqq-20" value="Registrar nuevo enfermero" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="570" y="510" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KRC1QLPjl5BRoLLzQoqq-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KRC1QLPjl5BRoLLzQoqq-22" target="KRC1QLPjl5BRoLLzQoqq-44" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRC1QLPjl5BRoLLzQoqq-22" value="Asignar medico" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="570" y="590" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KRC1QLPjl5BRoLLzQoqq-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KRC1QLPjl5BRoLLzQoqq-24" target="KRC1QLPjl5BRoLLzQoqq-45" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRC1QLPjl5BRoLLzQoqq-24" value="Asignar enfermero" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="570" y="670" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KRC1QLPjl5BRoLLzQoqq-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KRC1QLPjl5BRoLLzQoqq-26" target="KRC1QLPjl5BRoLLzQoqq-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRC1QLPjl5BRoLLzQoqq-26" value="Datos Entrada:&lt;br&gt;- Nombre&lt;br&gt;- Apellido&lt;br&gt;- ID Paciente&lt;br&gt;- Edad&lt;br&gt;- Direccion&lt;br&gt;- Telefono&lt;br&gt;- ID Familiar" style="html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="1000" y="-80" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="KRC1QLPjl5BRoLLzQoqq-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KRC1QLPjl5BRoLLzQoqq-28" target="KRC1QLPjl5BRoLLzQoqq-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRC1QLPjl5BRoLLzQoqq-28" value="Datos Entrada:&lt;br&gt;- ID Paciente" style="html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="1000" y="160" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KRC1QLPjl5BRoLLzQoqq-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KRC1QLPjl5BRoLLzQoqq-30" target="KRC1QLPjl5BRoLLzQoqq-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRC1QLPjl5BRoLLzQoqq-30" value="Datos Entrada:&lt;br&gt;- Nombre&lt;br&gt;- Apellido&lt;br&gt;- ID Familiar&lt;br&gt;- Direccion&lt;br&gt;- Telefono&lt;br&gt;-Email" style="html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="1240" y="340" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KRC1QLPjl5BRoLLzQoqq-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KRC1QLPjl5BRoLLzQoqq-32" target="KRC1QLPjl5BRoLLzQoqq-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRC1QLPjl5BRoLLzQoqq-32" value="Datos Entrada:&lt;br&gt;- Nombre&lt;br&gt;- Apellido&lt;br&gt;- ID Medico" style="html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="1000" y="480" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="KRC1QLPjl5BRoLLzQoqq-33" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.973;entryY=0.706;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="KRC1QLPjl5BRoLLzQoqq-34" target="KRC1QLPjl5BRoLLzQoqq-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRC1QLPjl5BRoLLzQoqq-34" value="Datos Entrada:&lt;br&gt;- Nombre&lt;br&gt;- Apellido&lt;br&gt;- ID Enfermero" style="html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="1000" y="660" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KRC1QLPjl5BRoLLzQoqq-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" source="KRC1QLPjl5BRoLLzQoqq-36" target="KRC1QLPjl5BRoLLzQoqq-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRC1QLPjl5BRoLLzQoqq-36" value="Datos Entrada:&lt;br&gt;- ID Medico&lt;br&gt;- ID Paciente" style="html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="1000" y="860" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KRC1QLPjl5BRoLLzQoqq-37" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.79;entryY=1.02;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="KRC1QLPjl5BRoLLzQoqq-38" target="KRC1QLPjl5BRoLLzQoqq-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRC1QLPjl5BRoLLzQoqq-38" value="Datos Entrada:&lt;br&gt;- ID Enferemero&lt;br&gt;- ID Paciente" style="html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="600" y="840" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KRC1QLPjl5BRoLLzQoqq-39" value="Datos Salida:&lt;br&gt;- Confirmacion Registro" style="html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="1000" y="70" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KRC1QLPjl5BRoLLzQoqq-40" value="Datos Salida:&lt;br&gt;- Nombre&lt;br&gt;-Apellido&lt;br&gt;-ID Paciente&lt;br&gt;- Edad&lt;br&gt;-Direccion&lt;br&gt;-Telefono&lt;br&gt;-Email&lt;br&gt;-ID Familiar&lt;br&gt;-Medico Asignado&lt;br&gt;-Enfermero Asignado" style="html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="1000" y="240" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="KRC1QLPjl5BRoLLzQoqq-41" value="Datos Salida:&lt;br&gt;- Confirmacion Registro" style="html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="1240" y="450" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KRC1QLPjl5BRoLLzQoqq-42" value="Datos Salida:&lt;br&gt;- Confirmacion Registro" style="html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="1000" y="750" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KRC1QLPjl5BRoLLzQoqq-43" value="Datos Salida:&lt;br&gt;- Confirmacion Registro" style="html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="1000" y="580" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KRC1QLPjl5BRoLLzQoqq-44" value="Datos Salida:&lt;br&gt;- Confirmacion Asignacion" style="html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="1000" y="950" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KRC1QLPjl5BRoLLzQoqq-45" value="Datos Salida:&lt;br&gt;- Confirmacion Asignacion" style="html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="500" y="780" width="160" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
